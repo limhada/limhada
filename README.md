@@ -112,8 +112,9 @@ Deployment URL : https://portfolio-limhada.vercel.app
 <!-- 테크블로그 -->
 <a href="https://blog.naver.com/leem95">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://blog.naver.com/leem95"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/Blog-ffffff?style=flat&logo=naver&link=https://blog.naver.com/leem95"
+       
+
 </a>
 
 <!-- G메일 -->
