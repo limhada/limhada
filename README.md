@@ -12,11 +12,27 @@
 
 <div align="left">
 
+<div align=center
+<!-- 방문자 수 -->
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimhada%2Fhit-counter&count_bg=%23577044&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div> 
+
     
 ## ABOUT ME
 - 이름: 임종정
 - 학력: 한양대학교 정보융합전공
-- 이메일: leem1315@gmail.com
+- 이메일: leem95@naver.com
+- <a href="https://blog.naver.com/leem95">
+    <img 
+        src="http://img.shields.io/badge/Blog-ffffff?style=flat&logo=naver&link=https://blog.naver.com/leem95"   </a>
+    <a href="mailto:leem1315@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leem1315@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+
 
 ## Technology Stacks
 - Frontend :
@@ -99,43 +115,22 @@
 ## Portfolio Website
 Deployment URL : https://portfolio-limhada.vercel.app
 <br>
+QR코드:
+<br>
+
+![image](https://github.com/limhada/limhada/assets/107875213/858000ca-ab8b-4c91-a37b-8ea6a7233a91)
+
+<br>
+
+<div align=center>
 
 <a href='https://portfolio-limhada.vercel.app' target='_blank'>
   <img src="https://github.com/limhada/portfolio/blob/main/public/portfolio/i1.png?raw=true" width="900px" height="600px">
 </a>
-<br>
-<br>
 
 
-        
-<div align=center>
-<!-- 테크블로그 -->
-<a href="https://blog.naver.com/leem95">
-    <img 
-        src="http://img.shields.io/badge/Blog-ffffff?style=flat&logo=naver&link=https://blog.naver.com/leem95"
-       
+</div>
 
-</a>
 
-<!-- G메일 -->
-<a href="mailto:leem1315@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leem1315@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<br>
-<br>
-
-<!-- 방문자 수 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimhada%2Fhit-counter&count_bg=%23577044&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
- </div> 
 </div>
   
-
-
-
-
-
-
