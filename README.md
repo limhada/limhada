@@ -136,16 +136,18 @@ Deployment URL : https://portfolio-limhada.vercel.app
   <img src="https://github.com/limhada/portfolio/blob/main/public/portfolio/i1.png?raw=true" width="900px" height="600px">
 </a>
 
-<br>
-<br>
+<br><br>
+
 QR코드
 <br>
 
-![image](https://github.com/limhada/limhada/assets/107875213/858000ca-ab8b-4c91-a37b-8ea6a7233a91)
+<!--  ![image](https://github.com/limhada/limhada/assets/107875213/858000ca-ab8b-4c91-a37b-8ea6a7233a91)  -->
+<img src="https://github.com/limhada/limhada/assets/107875213/858000ca-ab8b-4c91-a37b-8ea6a7233a91" width="130px" height="130px">
 
-<br>
+<br><br>
 
-![LJJ Portfolio](https://github.com/limhada/limhada/assets/107875213/971a4945-8b5c-462b-bdcd-8bc14ddc1652)
+<!--  ![LJJ Portfolio](https://github.com/limhada/limhada/assets/107875213/971a4945-8b5c-462b-bdcd-8bc14ddc1652)   -->
+<img src="https://github.com/limhada/limhada/assets/107875213/971a4945-8b5c-462b-bdcd-8bc14ddc1652" width="300px" height="600px">
 
 
 </div>
