@@ -69,6 +69,12 @@
         <img
           src='https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white'
         ></img>
+        <img
+          src='https://img.shields.io/badge/redux thunk-764ABC?style=flat&logo=redux&logoColor=white'
+        ></img>
+        <img
+          src='https://img.shields.io/badge/RTK Query-764ABC?style=flat&logo=redux&logoColor=white'
+        ></img>
 
 - Backend :
 <img
@@ -110,23 +116,36 @@
         <img
           src='https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white'
         ></img>
-
+        <img
+        src="https://img.shields.io/badge/Ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white"
+        ></img>
+        <img
+        src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"
+        ></img>
 
 ## Portfolio Website
 Deployment URL : https://portfolio-limhada.vercel.app
 <br>
-QR코드:
-<br>
 
-![image](https://github.com/limhada/limhada/assets/107875213/858000ca-ab8b-4c91-a37b-8ea6a7233a91)
 
-<br>
+
 
 <div align=center>
 
 <a href='https://portfolio-limhada.vercel.app' target='_blank'>
   <img src="https://github.com/limhada/portfolio/blob/main/public/portfolio/i1.png?raw=true" width="900px" height="600px">
 </a>
+
+<br>
+<br>
+QR코드
+<br>
+
+![image](https://github.com/limhada/limhada/assets/107875213/858000ca-ab8b-4c91-a37b-8ea6a7233a91)
+
+<br>
+
+![LJJ Portfolio](https://github.com/limhada/limhada/assets/107875213/971a4945-8b5c-462b-bdcd-8bc14ddc1652)
 
 
 </div>
