@@ -152,8 +152,9 @@ QR코드
 <br><br>
 
 <!--  ![LJJ Portfolio](https://github.com/limhada/limhada/assets/107875213/971a4945-8b5c-462b-bdcd-8bc14ddc1652)   -->
+<a href='https://portfolio-limhada.vercel.app' target='_blank'>
 <img src="https://github.com/limhada/limhada/assets/107875213/971a4945-8b5c-462b-bdcd-8bc14ddc1652" width="300px" height="600px">
-
+</a>
 
 </div>
 
