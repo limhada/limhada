@@ -122,6 +122,9 @@
         <img
         src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"
         ></img>
+        <img
+          src='https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white'
+        />
 
 ## Portfolio Website
 Deployment URL : https://portfolio-limhada.vercel.app
